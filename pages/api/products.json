@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Burger & Fries",
+    "price": "9.99",
+    "description": "100% Angus Beef burger with hand cut fries",
+    "image_url": "https://d9hyo6bif16lx.cloudfront.net/live/img/production/detail/menu/lunch-dinner_burgers_all-american-burger.jpg",
+    "filename": "Burger.zip",
+    "hash": "QmY9mccnct1umBKJNpmEAa3eDiQskyb9osFeQ6Rb6oH45j"
+  },
+  {
+    "id": 2,
+    "name": "Ceasar Salad",
+    "price": "11.99",
+    "image_url": "https://www.seriouseats.com/thmb/ugNLQE6hZcoZx0Tzu780h1L3lfc=/3750x3750/smart/filters:no_upscale()/the-best-caesar-salad-recipe-06-40e70f549ba2489db09355abd62f79a9.jpg",
+    "description": "The best 3 ingredients come together",
+    "filename": "1-Salad.jpeg.zip",
+    "hash": "QmS6RB9TY2Yyrd1cF8YaJGK53cqDUYcCF6yNrWHu8acGpJ"
+  }
+]

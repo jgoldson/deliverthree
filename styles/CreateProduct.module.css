@@ -1,5 +1,5 @@
 .background_blur{
-  background-image: url(../public/blur-bg.png);
+  background-image: url("~/src/foodbackground.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

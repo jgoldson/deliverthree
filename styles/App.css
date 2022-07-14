@@ -5,6 +5,21 @@
   overflow: hidden;
 }
 
+.App::before {    
+  content: "";
+  background-image: url("~/src/foodbackground.png");
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.60;
+}
+
+
+
 .container {
   height: 100%;
   display: flex;
